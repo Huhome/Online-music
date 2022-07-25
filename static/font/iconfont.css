@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3542886 */
+  src: url('iconfont.woff2?t=1658595619250') format('woff2'),
+       url('iconfont.woff?t=1658595619250') format('woff'),
+       url('iconfont.ttf?t=1658595619250') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-PCbofangye_paihangbang:before {
+  content: "\e642";
+}
+
+.icon-shangyishoushangyige:before {
+  content: "\e78a";
+}
+
+.icon-xiayigexiayishou:before {
+  content: "\e7a5";
+}
+
+.icon-caozuo-xunhuan1:before {
+  content: "\e62b";
+}
+
+.icon-xihuan:before {
+  content: "\e86f";
+}
+
+.icon-xihuan1:before {
+  content: "\e870";
+}
+
+.icon-diandiandianshu:before {
+  content: "\e679";
+}
+
+.icon-zanting:before {
+  content: "\e629";
+}
+
+.icon-bofang:before {
+  content: "\e696";
+}
+
+.icon-suijisenlin:before {
+  content: "\e60e";
+}
+
+.icon-24gl-playlistMusic2:before {
+  content: "\ea71";
+}
+
+.icon-pinglun-:before {
+  content: "\e60a";
+}
+
+.icon-icon_xinyong_xianxing_jijin-221:before {
+  content: "\e663";
+}
+
